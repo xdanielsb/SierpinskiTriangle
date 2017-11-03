@@ -1,7 +1,7 @@
 import math as m
-from plotp import plot
-from structures import p,t
-from logic import init
+from mathe.plotp import plot
+from mathe.structures import p,t
+from mathe.logic import init
 
 if(__name__ == "__main__"):
     l = 10000
